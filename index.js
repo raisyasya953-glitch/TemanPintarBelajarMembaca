@@ -5458,7 +5458,7 @@ if (reversed == null) { reversed = false; }
 		
 		function btn_belajar1() {
 		    // Tetap berada di Frame 2 utama (indeks 1)
-		    exportRoot.gotoAndStop(1);  
+		    exportRoot.gotoAndStop(2);  
 		}
 		
 		function btn_bermain1() {
